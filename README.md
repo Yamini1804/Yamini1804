@@ -82,7 +82,7 @@ RAG system over NVIDIA's 2025 Annual Report — FAISS (IndexFlatIP, cosine simil
 <td valign="top">
 
 **Database**
-<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mongodb" />
 
 </td>
 <td valign="top">
