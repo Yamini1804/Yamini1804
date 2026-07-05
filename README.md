@@ -104,13 +104,7 @@ RAG system over NVIDIA's 2025 Annual Report — FAISS (IndexFlatIP, cosine simil
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yamini1804&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yamini1804&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yamini1804&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yamini1804&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ---
